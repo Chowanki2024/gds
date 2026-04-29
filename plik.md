@@ -1,0 +1,4 @@
+---
+strona: Główna
+jednostka: procent
+---
